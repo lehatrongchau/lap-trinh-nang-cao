@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\VISUAL\Quanlisothu\Quanlisothu\bin\Debug\Quanlisothu.exe.config
+C:\Users\Administrator\Desktop\VISUAL\Quanlisothu\Quanlisothu\bin\Debug\Quanlisothu.exe
+C:\Users\Administrator\Desktop\VISUAL\Quanlisothu\Quanlisothu\bin\Debug\Quanlisothu.pdb
+C:\Users\Administrator\Desktop\VISUAL\Quanlisothu\Quanlisothu\obj\Debug\Quanlisothu.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\VISUAL\Quanlisothu\Quanlisothu\obj\Debug\Quanlisothu.Form1.resources
+C:\Users\Administrator\Desktop\VISUAL\Quanlisothu\Quanlisothu\obj\Debug\Quanlisothu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\VISUAL\Quanlisothu\Quanlisothu\obj\Debug\Quanlisothu.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\VISUAL\Quanlisothu\Quanlisothu\obj\Debug\Quanlisothu.exe
+C:\Users\Administrator\Desktop\VISUAL\Quanlisothu\Quanlisothu\obj\Debug\Quanlisothu.pdb
